@@ -45,5 +45,5 @@ Example: python SVM.py --kernels rbf linear  --degrees 0 --gammas 0.1 1 --C 0.00
        
 ## Authors       
        
-* **Tommy Myrvik** - (https://github.com/tommymy)       
+* **Tommy Myrvik** - (https://github.com/Myrvixen)       
 * **Kristian Tuv** - (https://github.com/kristtuv)       
